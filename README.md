@@ -29,7 +29,7 @@ rotazione
 
 Esercizio_1B
 
-
+ https://zuccagiulia.github.io/GIM/Esercizio_1B/Esercizio_1B.html
 
 Esercizio_1C
 
