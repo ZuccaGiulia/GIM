@@ -41,7 +41,7 @@ https://zuccagiulia.github.io/GIM
 
 ### Esercizio_3A
 
-https://zuccagiulia.github.io/GIM/Esercizio_3A/orologiodigitale/index.html
+https://zuccagiulia.github.io/GIM/Esercizio_3A/index.html
 
 ### Esercizio_3B
 
