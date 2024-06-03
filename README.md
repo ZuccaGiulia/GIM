@@ -17,15 +17,15 @@ https://zuccagiulia.github.io/GIM/Esercizio_1A/aperto_chiuso_3.html
 
 spostamento
 
-https://zuccagiulia.github.io/GIM
+https://zuccagiulia.github.io/GIM/Esercizio_1A/
 
-https://zuccagiulia.github.io/GIM
+https://zuccagiulia.github.io/GIM/Esercizio_1A/
 
 rotazione
 
-https://zuccagiulia.github.io/GIM
+https://zuccagiulia.github.io/GIM/Esercizio_1A/rotazione_2.html
 
-https://zuccagiulia.github.io/GIM
+https://zuccagiulia.github.io/GIM/Esercizio_1A/rotazione_3.html
 
 ### Esercizio_1B
 
