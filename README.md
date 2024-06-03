@@ -17,9 +17,9 @@ https://zuccagiulia.github.io/GIM/Esercizio_1A/aperto_chiuso_3.html
 
 spostamento
 
-https://zuccagiulia.github.io/GIM/Esercizio_1A/
+https://zuccagiulia.github.io/GIM/Esercizio_1A/spostamento_2.html
 
-https://zuccagiulia.github.io/GIM/Esercizio_1A/
+https://zuccagiulia.github.io/GIM/Esercizio_1A/spostamento_3.html
 
 rotazione
 
