@@ -5,9 +5,9 @@ Corso di grafica in movimento, SUPSI, 2024
 
 acceso-spento
 
-https://zuccagiulia.github.io/GIM
+https://zuccagiulia.github.io/GIM/Esercizio_1A/acceso_spento_2.html
 
-https://zuccagiulia.github.io/GIM
+https://zuccagiulia.github.io/GIM/Esercizio_1A/acceso_spento_3.html
 
 aperto-chiuso
 
