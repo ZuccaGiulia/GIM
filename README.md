@@ -45,4 +45,4 @@ https://zuccagiulia.github.io/GIM/Esercizio_3A/index.html
 
 ### Esercizio_3B
 
-https://zuccagiulia.github.io/GIM
+https://zuccagiulia.github.io/GIM/Esercizio_3B/pioggia/index.html
