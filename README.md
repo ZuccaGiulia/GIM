@@ -37,7 +37,7 @@ https://zuccagiulia.github.io/GIM/Esercizio_1C/Esercizio_1C
 
 ### Esercizio_2
 
-https://zuccagiulia.github.io/GIM
+https://zuccagiulia.github.io/GIM/Esercizio_2/esercizio_2.html
 
 ### Esercizio_3A
 
